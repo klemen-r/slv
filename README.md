@@ -1,4 +1,16 @@
 <p align="center">
+  <pre>
+ ███████╗██╗    ██╗   ██╗
+ ██╔════╝██║    ██║   ██║
+ ███████╗██║    ██║   ██║
+ ╚════██║██║    ╚██╗ ██╔╝
+ ███████║███████╗╚████╔╝ 
+ ╚══════╝╚══════╝ ╚═══╝  
+
+ ─────────┼─────────
+ ╱╲_╱╲╱╲_╱│╲_╱╲╱╲_╱╲
+          ATM
+  </pre>
   <h1 align="center">SLV Options</h1>
   <p align="center">
     <strong>Stochastic Local Volatility Model for Options Pricing & Level Detection</strong>
