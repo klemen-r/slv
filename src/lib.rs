@@ -70,7 +70,7 @@ pub mod prelude {
 
     // Data fetching
     pub use crate::data::{
-        fetch_qqq_options, fetch_spy_options, CacheConfig, CachedFetcher, DataCache,
+        fetch_qqq_options, fetch_spy_options, CacheConfig, CachedFetcher, CandleBar, DataCache,
         FuturesOptionChain, SierraOptionsReader, SpotQuote, YahooClient,
     };
 

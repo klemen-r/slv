@@ -72,7 +72,7 @@ thiserror = "1.0"
 anyhow = "1.0"
 
 # HTTP client for Yahoo Finance
-reqwest = { version = "0.11", features = ["json", "blocking"] }
+reqwest = { version = "0.11", features = ["json", "blocking", "cookies"] }
 tokio = { version = "1", features = ["full"] }
 
 # CSV for data storage
